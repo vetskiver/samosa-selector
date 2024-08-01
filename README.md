@@ -29,6 +29,12 @@ Samosa Selector is an incremental game inspired by the popular game Cookie Click
    - **Full Feast:** Available at 1000 samosas, increases samosas per click by 10x.
 3. **Dynamic Interaction:** Samosa icon features a pulse effect when clicked, and shrinks and grows on hover and click, respectively.
 
+## Video Walkthrough
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/vetskiver/samosa-selector/blob/master/samosa-selector-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 ## Getting Started
 
 1. **Clone the Repository:**
