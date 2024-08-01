@@ -8,7 +8,7 @@ const App = () => {
       <div className='header'>
         <h1>Samosa Selector</h1>
         <h2>Count:</h2>
-        <img src={samosaImage} alt="Samosa" />
+        <img src={samosaImage} className="samosa" alt="Samosa" />
       </div>
     </div>
   )
